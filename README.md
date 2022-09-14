@@ -3,7 +3,7 @@
 weather app using HTML, CSS, and JavaScript
 
 
-![image](https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c.png)
+![image](https://code-projects.org/wp-content/uploads/2019/11/screenshot__108_.jpg)
 
 This project is a Simple Weather App to display weather of requested city
 
